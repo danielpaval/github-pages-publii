@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://danielpaval.github.io/github-pages-publii/sitemap.xml
